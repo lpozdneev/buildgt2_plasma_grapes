@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "sensors.ino",
+    "port": "/dev/ttyACM0"
+}
