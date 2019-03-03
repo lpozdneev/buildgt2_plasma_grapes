@@ -141,6 +141,7 @@ void sweep() {
       Serial.print("sweep buzz");
       Serial.print(dist);
       advancedBuzz(dist);
+      Serial.println(dist);
     }
     myServo.write(sensorAngle[i]);
   }
