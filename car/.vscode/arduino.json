@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "robot-car.ino",
+    "port": "/dev/ttyUSB0"
+}
